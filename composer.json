@@ -1,0 +1,20 @@
+{
+    "name": "dahua/aliyun-market-sdk",
+    "type": "library",
+    "license": "mit",
+    "autoload": {
+        "psr-4": {
+            "Dahua\\AliyunMarketSdk\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "dahua997",
+            "email": "97277929+dahua997@users.noreply.github.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.0.0"
+    }
+}
